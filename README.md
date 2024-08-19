@@ -1,5 +1,5 @@
 # estudantealura
-My name is Matheus Henrique, i born in Nova Granada-SP and actualy i live in Santa Rita d´Oeste-SP, i have p5.js files.
+Meu nome é Matheus, nasci em Nova Granada - São Paulo mas atualmente moro em Santa Rita d'0este - São Paulo, eu tenho arquivos p5.js.
 
 ![](https://media.tenor.com/DFV3AwjrN98AAAAM/fastest-lap-max-verstappen.gif); ![](https://media.tenor.com/K8qKVUoLXroAAAAM/sergio-perez.gif)
 
